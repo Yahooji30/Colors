@@ -7,7 +7,8 @@ const colors = [
     'Indigo',
     'SkyBlue',
     'Transparent',
-    'Pink'
+    'Pink',
+    'Golden'
 ];
 
 colors.forEach(element => {
