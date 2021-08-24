@@ -6,6 +6,9 @@ const colors = [
     'Orange',
     'Indigo',
     'SkyBlue',
+    'Transparent',
+    'Gray',
+    'Silver'
     'Dark Orange'
 ];
 
