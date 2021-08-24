@@ -5,7 +5,8 @@ const colors = [
     'Yellow',
     'Orange',
     'Indigo',
-    'SkyBlue'
+    'SkyBlue',
+    'Dark Orange'
 ];
 
 colors.forEach(element => {
