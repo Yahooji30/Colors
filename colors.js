@@ -9,6 +9,7 @@ const colors = [
     'Transparent',
     'Gray',
     'Silver'
+    'Dark Orange'
 ];
 
 colors.forEach(element => {
