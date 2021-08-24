@@ -8,7 +8,10 @@ const colors = [
     'SkyBlue',
     'Transparent',
     'Pink',
-    'Golden'
+    'Golden',
+    'Gray',
+    'Silver'
+    'Dark Orange'
 ];
 
 colors.forEach(element => {
